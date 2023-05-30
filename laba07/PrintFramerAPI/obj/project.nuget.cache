@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DJHhdD+uQYht8agGt2OlB+OaZtq4EfFJlugtoNfY3Og7z+EnCncv4QeG0YcQgnO3FAzDlQ/DOXAx9bv475+6g==",
+  "success": true,
+  "projectFilePath": "C:\\Навчання\\2_курс\\2_семестр\\ООП\\OOP_lab_07\\mslearn-improve-api-developer-experience-with-swagger\\PrintFramerAPI\\PrintFramerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
